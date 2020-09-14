@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:smileneo/customTimerPicker.dart';
+import 'package:smileneo/customTimePicker.dart';
+
+import 'customTimePicker.dart';
 
 
 void main() {
